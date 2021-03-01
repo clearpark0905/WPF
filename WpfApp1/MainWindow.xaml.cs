@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-// 계산기
+// 계산기 프로그램
 namespace WpfApp1
 {
     /// <summary>
